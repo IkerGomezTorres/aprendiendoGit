@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|c:\\users\\iker.gomez\\desktop\\pruebaproyectoconjunto\\becurso\\becurso\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|solutionrelative:becurso\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|c:\\users\\iker.gomez\\desktop\\pruebaproyectoconjunto\\becurso\\becurso\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|solutionrelative:becurso\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|c:\\users\\iker.gomez\\desktop\\pruebaproyectoconjunto\\becurso\\becurso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|solutionrelative:becurso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|c:\\users\\iker.gomez\\desktop\\pruebaproyectoconjunto\\becurso\\becurso\\becurso.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|solutionrelative:becurso\\becurso.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|c:\\users\\iker.gomez\\desktop\\pruebaproyectoconjunto\\becurso\\becurso\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|solutionrelative:becurso\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|c:\\users\\iker.gomez\\desktop\\pruebaproyectoconjunto\\becurso\\becurso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|solutionrelative:becurso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|c:\\users\\iker.gomez\\desktop\\pruebaproyectoconjunto\\becurso\\becurso\\migrations\\20240319110654_v1.0.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB3D2D5-1F4F-4C04-8D33-2C1E46DDC7A3}|BECurso\\BECurso.csproj|solutionrelative:becurso\\migrations\\20240319110654_v1.0.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BECurso.http",
+              "DocumentMoniker": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\BECurso.http",
+              "RelativeDocumentMoniker": "BECurso\\BECurso.http",
+              "ToolTip": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\BECurso.http",
+              "RelativeToolTip": "BECurso\\BECurso.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-19T15:54:26.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\appsettings.json",
+              "RelativeDocumentMoniker": "BECurso\\appsettings.json",
+              "ToolTip": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\appsettings.json",
+              "RelativeToolTip": "BECurso\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T10:48:00.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Program.cs",
+              "RelativeDocumentMoniker": "BECurso\\Program.cs",
+              "ToolTip": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Program.cs",
+              "RelativeToolTip": "BECurso\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:49:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BECurso\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BECurso\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:44:09.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "BECurso\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Models\\Alumno.cs",
+              "RelativeToolTip": "BECurso\\Models\\Alumno.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:57:37.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "BECurso\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "BECurso\\Controllers\\AlumnoController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:49:55.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240319110654_v1.0.0.cs",
+              "DocumentMoniker": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Migrations\\20240319110654_v1.0.0.cs",
+              "RelativeDocumentMoniker": "BECurso\\Migrations\\20240319110654_v1.0.0.cs",
+              "ToolTip": "C:\\Users\\iker.gomez\\Desktop\\PruebaProyectoConjunto\\BECurso\\BECurso\\Migrations\\20240319110654_v1.0.0.cs",
+              "RelativeToolTip": "BECurso\\Migrations\\20240319110654_v1.0.0.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:06:55.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

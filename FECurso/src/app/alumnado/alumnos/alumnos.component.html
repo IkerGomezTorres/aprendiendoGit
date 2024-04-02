@@ -1,0 +1,94 @@
+<div class="container mt-5">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+        <div class="card">
+          <div class="card-body">
+            <h3 class="titulo text-center">CURSO 2024</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="row mt-4">
+      <div class="col-lg-6">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="titulo text-center">{{ accion }} Alumno</h5>
+            <form [formGroup]="form" (ngSubmit)="guardarAlumno()">
+              <div class="input-group mb-3">
+                <span class="input-group-text">
+                  <i class="fa-solid fa-user" style="color: #B197FC;"></i>
+                </span>
+                <input formControlName="nombre" type="text" class="form-control" placeholder="Nombre y apellidos">
+              </div>
+  
+              <div class="input-group mb-3">
+                <span class="input-group-text">
+                  <i class="fa-solid fa-building" style="color: #B197FC;"></i>
+                </span>
+                <input formControlName="ciudad" type="text" class="form-control" placeholder="Ciudad">
+              </div>
+  
+              <div class="row">
+                <div class="col-lg-4 mt-1">
+                    <div class="input-group mb-3">
+                        <span class="input-group-text">
+                          <i class="fa-solid fa-person-cane" style="color: #B197FC;"></i>
+                        </span>
+                        <input formControlName="edad" type="number" class="form-control" placeholder="Edad">
+                    </div>
+                </div>
+  
+                <div class="col-lg-3 mt-1">
+                  <div class="input-group mb-3">
+                    <span class="input-group-text">
+                        <i class="fa-solid fa-venus-mars" style="color: #B197FC;"></i>
+                    </span>
+                    <select class="form-control" formControlName="sexo">
+                        <option disabled selected>Sexo</option>
+                        <option>M</option>
+                        <option>F</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-lg-5">
+                    <button type="submit" class="btn btn-info btn-lg text-light col-lg-12">
+                        <i class="fa-solid fa-user-graduate" style="color: #ffffff;"></i>&nbsp; Aceptar
+                    </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="titulo text-center">Listado de alumnos</h5>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Ciudad</th>
+                        <th>Edad</th>
+                        <th>Sexo</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let alumno of listaAlumnos">
+                        <td>{{alumno.nombre}}</td>
+                        <td>{{alumno.ciudad}}</td>
+                        <td>{{alumno.edad}}</td>
+                        <td>{{alumno.sexo}}</td>
+                        <td><i (click)="editarAlumno(alumno)" class="fa-solid fa-pen-to-square" style="color: #74C0FC;"></i></td>
+                        <td><i (click)="eliminarAlumno(alumno.id)" class="fa-solid fa-trash" style="color: #af1222;"></i></td>
+                    </tr>
+                </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
