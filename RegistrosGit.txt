@@ -1,1 +1,2 @@
 Este es el documento en el que hay información para probar con GIT sus funciones
+Primer cambio
